@@ -5,6 +5,6 @@ This repository contains code and examples for learning JavaScript. It covers va
 ## Learning Resource
 
 I am learning JavaScript from the following YouTube playlist:  
-[JavaScript in Hindi by Hitesh Choudhary](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
+[JavaScript by Hitesh Choudhary](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
 
 Feel free to explore the code and follow along with the playlist to enhance your JavaScript skills!
